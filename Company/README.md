@@ -1,4 +1,4 @@
-Create employee
+## Create employee
 
     URL
 
@@ -7,16 +7,16 @@ Create employee
     BODY
 
     {
-        "name": "TestUser3",
-        "ssn" : "01fe17bcsROFL",
-        "salary" : 10001,
-        "designation" : "LMAO",
-        "department" : "dept1",
+        "name": "user",
+        "ssn" : "01fe17bcs007",
+        "salary" : 22222,
+        "designation" : "Associate",
+        "department" : "automation",
         "environment" : "development",
         "gender" : "female"
     }
 
-GET employees with different filters
+## GET employees with different conditions
 
     URL
 
